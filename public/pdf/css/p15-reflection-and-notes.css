@@ -1,0 +1,104 @@
+/* screen - p15-reflection-and-notes */
+
+.p15-reflection-and-notes {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.5px none;
+  display: flex;
+  flex-direction: column;
+  height: 792px;
+  padding: 26.5px 38.3px;
+  width: 612px;
+}
+
+.p15-reflection-and-notes .reflection {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-left: 0.21px;
+  margin-top: 12px;
+  white-space: nowrap;
+}
+
+.p15-reflection-and-notes .bar-4 {
+  align-self: center;
+  background: linear-gradient(180deg, rgb(231, 125, 125) 0%, rgb(219, 7, 7) 100%);
+  border: 0.5px none;
+  border-radius: 2.5px;
+  height: 2px;
+  margin-top: 4px;
+  width: 534px;
+}
+
+.p15-reflection-and-notes .take-some-time-and-w {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: 24px;
+  min-height: 29px;
+  width: 504px;
+}
+
+.p15-reflection-and-notes .lines {
+  align-self: flex-end;
+  height: 526px;
+  margin-right: 0.02px;
+  margin-top: 36px;
+  width: 535px;
+}
+
+.p15-reflection-and-notes .footer {
+  align-items: flex-start;
+  align-self: center;
+  border: 0.5px none;
+  display: flex;
+  margin-left: 0.09px;
+  margin-top: 36px;
+  min-width: 535px;
+}
+
+.p15-reflection-and-notes .footer-1 {
+  align-items: center;
+  background-color: var(--mystic);
+  border: 0.5px none;
+  display: flex;
+  height: 28px;
+  min-width: 535px;
+  padding: 3.6px 10.5px;
+}
+
+.p15-reflection-and-notes .ba-logo_-red {
+  align-self: flex-end;
+  background-image: url(../img/balogo-red-1-39@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.2px none;
+  height: 20px;
+  width: 72px;
+}
+
+.p15-reflection-and-notes .line-1 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 1.0px;
+  width: 1px;
+}
+
+.p15-reflection-and-notes .bandelli-relational-intelligence-test {
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  margin-left: 10px;
+  margin-top: 2.0px;
+  min-height: 10px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.p15-reflection-and-notes .x {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 261px;
+  margin-top: 3.5px;
+  min-height: 12px;
+  text-align: right;
+  white-space: nowrap;
+  width: 16px;
+}

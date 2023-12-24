@@ -1,0 +1,313 @@
+/* screen - p8-embracing-individual-differences-average-1 */
+
+.p8-embracing-individual-differences-average-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1584px;
+  padding: 53.0px 71.0px;
+  width: 1224px;
+}
+
+.p8-embracing-individual-differences-average-1 .individual-container {
+  height: 116px;
+  margin-right: 7.67px;
+  margin-top: 34px;
+  position: relative;
+  width: 1062px;
+}
+
+.p8-embracing-individual-differences-average-1 .embracing-individual-differences {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 84px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+  width: 1062px;
+}
+
+.p8-embracing-individual-differences-average-1 .individual-scores-implications {
+  left: 0;
+  letter-spacing: 0.48px;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 1062px;
+}
+
+.p8-embracing-individual-differences-average-1 .embracing-individual {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.91px solid;
+  border-color: var(--mystic-2);
+  border-radius: 5.47px;
+  display: flex;
+  gap: 24px;
+  height: 101px;
+  justify-content: flex-end;
+  margin-top: 36px;
+  min-width: 1070px;
+  padding: 12.2px 30.4px;
+}
+
+.p8-embracing-individual-differences-average-1 .icon {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(103, 0, 173) 0%, rgb(167, 95, 211) 100%);
+  border-radius: 10.94px;
+  display: flex;
+  height: 59px;
+  min-width: 59px;
+  padding: 0 9.7px;
+}
+
+.p8-embracing-individual-differences-average-1 .puzzle {
+  height: 39px;
+  width: 40px;
+}
+
+.p8-embracing-individual-differences-average-1 .overlap-group {
+  align-self: center;
+  height: 71px;
+  margin-top: 1.4px;
+  position: relative;
+  width: 925px;
+}
+
+.p8-embracing-individual-differences-average-1 .low {
+  height: 17px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 54px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average-1 .average {
+  height: 17px;
+  left: 438px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 54px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average-1 .high {
+  height: 17px;
+  left: 897px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 54px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average-1 .group-1593 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 0;
+  min-height: 55px;
+  position: absolute;
+  top: 0;
+  width: 925px;
+}
+
+.p8-embracing-individual-differences-average-1 .percent {
+  height: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  text-shadow: 2px 2px 0px #000000;
+  width: 133px;
+}
+
+.p8-embracing-individual-differences-average-1 .bar {
+  align-items: flex-start;
+  background-color: var(--mystic);
+  border-radius: 10px;
+  display: flex;
+  margin-left: 0.11px;
+  min-width: 923px;
+}
+
+.p8-embracing-individual-differences-average-1 .rectangle-651 {
+  background: linear-gradient(180deg, rgb(103, 0, 173) 0%, rgb(167, 95, 211) 100%);
+  border: 0.91px none;
+  border-radius: 10px;
+  height: 6px;
+  width: 465px;
+}
+
+.p8-embracing-individual-differences-average-1 .group-1663 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-right: 0.75px;
+  margin-top: 68px;
+  min-height: 249px;
+  width: 1075px;
+}
+
+.p8-embracing-individual-differences-average-1 .x-implications {
+  letter-spacing: 0.72px;
+  line-height: 42px;
+  margin-top: -1px;
+  min-height: 46px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average-1 .x-with-similar-scores-tend-to {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-bottom: -3px;
+  margin-left: 0.75px;
+  margin-top: 4px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average-1 .sometimes-adjust-the {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: 17px;
+  min-height: 158px;
+  width: 1068px;
+}
+
+.p8-embracing-individual-differences-average-1 .rectangle-654 {
+  background: linear-gradient(180deg, rgb(103, 0, 173) 0%, rgb(167, 95, 211) 100%);
+  border: 1px none;
+  border-radius: 3px;
+  height: 3px;
+  margin-right: 2.0px;
+  margin-top: 44px;
+  width: 1068px;
+}
+
+.p8-embracing-individual-differences-average-1 .group-1662 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-left: 4.0px;
+  margin-top: 44px;
+  min-height: 200px;
+  width: 1074px;
+}
+
+.p8-embracing-individual-differences-average-1 .compared-to-other-le {
+  letter-spacing: 0;
+  line-height: 26px;
+  min-height: 137px;
+  width: 1070px;
+}
+
+.p8-embracing-individual-differences-average-1 .rectangle-655 {
+  background: linear-gradient(180deg, rgb(103, 0, 173) 0%, rgb(167, 95, 211) 100%);
+  border: 1px none;
+  border-radius: 3px;
+  height: 3px;
+  margin-top: 44px;
+  width: 1068px;
+}
+
+.p8-embracing-individual-differences-average-1 .group-1661 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 44px;
+  min-height: 224px;
+  width: 1076px;
+}
+
+.p8-embracing-individual-differences-average-1 .believe-it-is-import {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: 17px;
+  min-height: 134px;
+  width: 1070px;
+}
+
+.p8-embracing-individual-differences-average-1 .overlap-group2 {
+  height: 242px;
+  margin-left: 1.0px;
+  margin-top: 27px;
+  position: relative;
+  width: 1070px;
+}
+
+.p8-embracing-individual-differences-average-1 .footer {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  left: 0;
+  min-width: 1070px;
+  position: absolute;
+  top: 186px;
+}
+
+.p8-embracing-individual-differences-average-1 .footer-1 {
+  align-items: center;
+  background-color: var(--mystic);
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  min-width: 1070px;
+  padding: 7.2px 21.0px;
+}
+
+.p8-embracing-individual-differences-average-1 .ba-logo_-red {
+  align-self: flex-end;
+  background-image: url(../img/balogo-red-1-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.41px none;
+  height: 41px;
+  width: 143px;
+}
+
+.p8-embracing-individual-differences-average-1 .line-1 {
+  height: 34px;
+  margin-left: 25px;
+  margin-top: 2.0px;
+  width: 1px;
+}
+
+.p8-embracing-individual-differences-average-1 .bandelli-relational-intelligence-test {
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  margin-left: 22px;
+  margin-top: 4.0px;
+  min-width: 277px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average-1 .x {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 517px;
+  margin-top: 7.0px;
+  min-height: 23px;
+  text-align: right;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.p8-embracing-individual-differences-average-1 .establishing-individ {
+  height: 186px;
+  left: 896px;
+  position: absolute;
+  top: 0;
+  width: 174px;
+}

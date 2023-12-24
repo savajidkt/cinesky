@@ -1,0 +1,95 @@
+/* screen - p11-derailers-overview */
+
+.p11-derailers-overview {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.5px none;
+  display: flex;
+  flex-direction: column;
+  height: 792px;
+  padding: 26.5px 38.2px;
+  width: 612px;
+}
+
+.p11-derailers-overview .derailers-overview {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-right: 77.5px;
+  margin-top: 12px;
+  white-space: nowrap;
+  width: 458px;
+}
+
+.p11-derailers-overview .bar-4 {
+  background: linear-gradient(180deg, rgb(231, 125, 125) 0%, rgb(219, 7, 7) 100%);
+  border: 0.5px none;
+  border-radius: 2.5px;
+  height: 2px;
+  margin-top: 4px;
+  width: 534px;
+}
+
+.p11-derailers-overview .building-relationshi {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: 24px;
+  min-height: 446px;
+  width: 535px;
+}
+
+.p11-derailers-overview .footer {
+  align-items: flex-start;
+  align-self: flex-end;
+  border: 0.5px none;
+  display: flex;
+  margin-top: 180px;
+  min-width: 535px;
+}
+
+.p11-derailers-overview .footer-1 {
+  align-items: center;
+  background-color: var(--mystic);
+  border: 0.5px none;
+  display: flex;
+  height: 28px;
+  min-width: 535px;
+  padding: 3.6px 10.5px;
+}
+
+.p11-derailers-overview .ba-logo_-red {
+  align-self: flex-end;
+  background-image: url(../img/balogo-red-1-39@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.2px none;
+  height: 20px;
+  width: 72px;
+}
+
+.p11-derailers-overview .line-1 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 1.0px;
+  width: 1px;
+}
+
+.p11-derailers-overview .bandelli-relational-intelligence-test {
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  margin-left: 10px;
+  margin-top: 2.0px;
+  min-height: 10px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.p11-derailers-overview .x {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 261px;
+  margin-top: 3.5px;
+  min-height: 12px;
+  text-align: right;
+  white-space: nowrap;
+  width: 16px;
+}

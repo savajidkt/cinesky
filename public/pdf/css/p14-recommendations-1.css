@@ -1,0 +1,216 @@
+/* screen - p14-recommendations-1 */
+
+.p14-recommendations-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1584px;
+  padding: 53px 74.1px;
+  width: 1224px;
+}
+
+.p14-recommendations-1 .overlap-group {
+  align-self: flex-start;
+  height: 84px;
+  margin-left: 3.11px;
+  margin-top: 25px;
+  position: relative;
+  width: 1061px;
+}
+
+.p14-recommendations-1 .continued {
+  left: 557px;
+  letter-spacing: 0.48px;
+  line-height: 32px;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+  width: 338px;
+}
+
+.p14-recommendations-1 .recommendations {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 84px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 1061px;
+}
+
+.p14-recommendations-1 .bar-4 {
+  align-self: center;
+  background: linear-gradient(180deg, rgb(231, 125, 125) 0%, rgb(219, 7, 7) 100%);
+  border: 1px none;
+  border-radius: 5px;
+  height: 4px;
+  margin-top: 8px;
+  width: 1069px;
+}
+
+.p14-recommendations-1 .eid {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 49px;
+  min-height: 321px;
+  width: 1072px;
+}
+
+.p14-recommendations-1 .embracing-individual-differences {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-height: 46px;
+  width: 1069px;
+}
+
+.p14-recommendations-1 .ing {
+  letter-spacing: 0.48px;
+  line-height: 32px;
+  margin-top: -1px;
+  min-height: 42px;
+  width: 647px;
+}
+
+.p14-recommendations-1 .bar-3 {
+  background: linear-gradient(180deg, rgb(103, 0, 173) 0%, rgb(167, 95, 211) 100%);
+  border: 1px none;
+  border-radius: 5px;
+  height: 4px;
+  width: 1069px;
+}
+
+.p14-recommendations-1 .model-authenticity-f {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 1px;
+  min-height: 260px;
+  width: 1070px;
+}
+
+.p14-recommendations-1 .dt {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-right: 0.25px;
+  margin-top: 50px;
+  min-height: 322px;
+  width: 1072px;
+}
+
+.p14-recommendations-1 .ing-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-left: 0.89px;
+  min-height: 46px;
+  width: 1069px;
+}
+
+.p14-recommendations-1 .bar-19 {
+  background: linear-gradient(180deg, rgb(179.56, 200.78, 255) 0%, rgb(45, 99, 237) 100%);
+  border: 1px none;
+  border-radius: 5px;
+  height: 4px;
+  width: 1069px;
+}
+
+.p14-recommendations-1 .take-time-to-learn-a {
+  letter-spacing: 0;
+  line-height: 26px;
+  min-height: 261px;
+  width: 1070px;
+}
+
+.p14-recommendations-1 .ci {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-right: 0.25px;
+  margin-top: 50px;
+  min-height: 352px;
+  width: 1072px;
+}
+
+.p14-recommendations-1 .bar-4-1 {
+  background: linear-gradient(180deg, rgb(255, 183.08, 129.62) 0%, rgb(255, 142, 58) 100%);
+  border: 1px none;
+  border-radius: 5px;
+  height: 4px;
+  margin-left: 0;
+  width: 1069px;
+}
+
+.p14-recommendations-1 .make-sure-that-you-a {
+  letter-spacing: 0;
+  line-height: 26px;
+  min-height: 291px;
+  width: 1070px;
+}
+
+.p14-recommendations-1 .footer {
+  align-items: flex-start;
+  align-self: center;
+  border: 1px none;
+  display: flex;
+  margin-left: 0.18px;
+  margin-top: 157px;
+  min-width: 1070px;
+}
+
+.p14-recommendations-1 .footer-1 {
+  align-items: center;
+  background-color: var(--mystic);
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  min-width: 1070px;
+  padding: 7.2px 21.0px;
+}
+
+.p14-recommendations-1 .ba-logo_-red {
+  align-self: flex-end;
+  background-image: url(../img/balogo-red-1-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.41px none;
+  height: 41px;
+  width: 143px;
+}
+
+.p14-recommendations-1 .line-1 {
+  height: 34px;
+  margin-left: 25px;
+  margin-top: 2.0px;
+  width: 1px;
+}
+
+.p14-recommendations-1 .bandelli-relational-intelligence-test {
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  margin-left: 22px;
+  margin-top: 4.0px;
+  min-width: 271px;
+  white-space: nowrap;
+}
+
+.p14-recommendations-1 .x {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 523px;
+  margin-top: 7.0px;
+  min-height: 23px;
+  text-align: right;
+  white-space: nowrap;
+  width: 32px;
+}
