@@ -1,0 +1,221 @@
+/* screen - p1-title-page */
+
+.p1-title-page {
+  align-items: flex-start;
+  /* background-color: var(--white); */
+  border: 1px none;
+  display: flex;
+  width: 1224px;
+}
+
+.p1-title-page .overlap-group {
+  height: 1584px;
+  position: relative;
+  width: 1224px;
+}
+
+.p1-title-page .line-4 {
+  height: 1px;
+  left: 169px;
+  position: absolute;
+  top: 1183px;
+  width: 1021px;
+}
+
+.p1-title-page .red-border {
+  border: 34px solid;
+  border-color: transparent;
+  /* border-image: linear-gradient(to bottom, rgb(219, 7, 7), rgba(219, 7, 7, 0.19)) 1; */
+  height: 1584px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1224px;
+}
+
+.p1-title-page .x2022-bandelli-as {
+  /* color: var(--black);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxs); */
+  color: #000000;
+  font-weight: 400;
+  left: 169px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 1465px;
+  width: 325px;
+}
+
+.p1-title-page .report-info {
+  align-items: flex-start;
+  display: flex;
+  height: 81px;
+  left: 169px;
+  min-width: 863px;
+  position: absolute;
+  top: 1198px;
+}
+
+.p1-title-page .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-top: -1px;
+  min-height: 81px;
+  width: 191px;
+}
+
+.p1-title-page .report-for {
+  letter-spacing: 0.48px;
+  line-height: 32px;
+  min-height: 35px;
+  white-space: nowrap;
+}
+
+.p1-title-page .name {
+  letter-spacing: 0;
+  line-height: 26px;
+  min-height: 35px;
+  width: 191px;
+}
+
+.p1-title-page .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-left: 169px;
+  margin-top: -1px;
+  min-height: 81px;
+  width: 191px;
+}
+
+.p1-title-page .id {
+  letter-spacing: 0.48px;
+  line-height: 32px;
+  min-height: 35px;
+  white-space: nowrap;
+}
+
+.p1-title-page .number {
+  letter-spacing: 0;
+  line-height: 26px;
+  min-height: 35px;
+  width: 191px;
+}
+
+.p1-title-page .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-left: 109px;
+  margin-top: -1px;
+  min-height: 81px;
+  width: 191px;
+}
+
+.p1-title-page .date-taken {
+  letter-spacing: 0.48px;
+  line-height: 32px;
+  min-height: 35px;
+  white-space: nowrap;
+}
+
+.p1-title-page .mmddyyyy {
+  letter-spacing: 0;
+  line-height: 26px;
+  min-height: 35px;
+  width: 191px;
+}
+
+.p1-title-page .skill-colors {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  gap: 50px;
+  height: 59px;
+  left: 172px;
+  min-width: 497px;
+  position: absolute;
+  top: 937px;
+}
+
+.p1-title-page .rectangle-648 {
+  /* background: linear-gradient(180deg, rgb(255, 229.4, 127.5) 0%, rgb(255, 204, 1) 100%); */
+  border: 0.91px none;
+  border-radius: 10.94px;
+  height: 59px;
+  width: 59px;
+}
+
+.p1-title-page .rectangle-1109 {
+  /* background: linear-gradient(180deg, rgb(169.4, 234.81, 87.08) 0%, rgb(127.26, 184.88, 53.92) 100%); */
+  border: 0.91px none;
+  border-radius: 10.94px;
+  height: 59px;
+  width: 59px;
+}
+
+.p1-title-page .rectangle-1110 {
+  /* background: linear-gradient(180deg, rgb(103, 0, 173) 0%, rgb(167, 95, 211) 100%); */
+  border: 0.91px none;
+  border-radius: 10.94px;
+  height: 59px;
+  width: 59px;
+}
+
+.p1-title-page .rectangle-1111 {
+  /* background: linear-gradient(180deg, rgb(179.56, 200.78, 255) 0%, rgb(45, 99, 237) 100%); */
+  border: 0.91px none;
+  border-radius: 10.94px;
+  height: 59px;
+  width: 59px;
+}
+
+.p1-title-page .rectangle-1112 {
+  /* background: linear-gradient(180deg, rgb(255, 183.08, 129.62) 0%, rgb(255, 142, 58) 100%); */
+  border: 0.91px none;
+  border-radius: 10.94px;
+  height: 59px;
+  width: 59px;
+}
+
+.p1-title-page .address {
+  /* color: var(--black);
+  font-family: var(--font-family-roboto_condensed-regular); */
+  color: #000000;
+  font-size: 29px;
+  font-weight: 400;
+  height: 100px;
+  left: 172px;
+  letter-spacing: 2.61px;
+  line-height: normal;
+  position: absolute;
+  top: 836px;
+  width: 880px;
+}
+
+.p1-title-page .title {
+  /* color: var(--guardsman-red);
+  font-family: var(--font-family-roboto_condensed-bold); */
+  font-size: 160px;
+  font-weight: 700;
+  left: 169px;
+  letter-spacing: 0;
+  line-height: 150px;
+  position: absolute;
+  top: 385px;
+  width: 886px;
+}
+
+.p1-title-page .bandelli-associates-logo-1 {
+  height: 141px;
+  left: 690px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 473px;
+}

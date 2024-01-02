@@ -1,0 +1,291 @@
+/* screen - p7-understanding-others-high-1 */
+
+.p7-understanding-others-high-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1584px;
+  padding: 53px 71.0px;
+  width: 1224px;
+}
+
+.p7-understanding-others-high-1 .individual-scores-implications {
+  letter-spacing: 0.48px;
+  line-height: 32px;
+  margin-right: 8.0px;
+  margin-top: 34px;
+  white-space: nowrap;
+  width: 1062px;
+}
+
+.p7-understanding-others-high-1 .understanding-others {
+  letter-spacing: 0;
+  line-height: 84px;
+  margin-right: 8.0px;
+  white-space: nowrap;
+  width: 1062px;
+}
+
+.p7-understanding-others-high-1 .understanding-others-full-width {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.91px solid;
+  border-color: var(--mystic-2);
+  border-radius: 5.47px;
+  display: flex;
+  gap: 24px;
+  height: 101px;
+  justify-content: flex-end;
+  margin-top: 36px;
+  min-width: 1070px;
+  padding: 12.4px 30.4px;
+}
+
+.p7-understanding-others-high-1 .icon {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(169.4, 234.81, 87.08) 0%, rgb(127.26, 184.88, 53.92) 100%);
+  border-radius: 10.94px;
+  display: flex;
+  height: 59px;
+  min-width: 59px;
+  padding: 15.2px 10.6px;
+}
+
+.p7-understanding-others-high-1 .communication {
+  height: 29px;
+  width: 38px;
+}
+
+.p7-understanding-others-high-1 .overlap-group {
+  align-self: center;
+  height: 71px;
+  margin-top: 1.4px;
+  position: relative;
+  width: 925px;
+}
+
+.p7-understanding-others-high-1 .low {
+  height: 17px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 54px;
+  white-space: nowrap;
+}
+
+.p7-understanding-others-high-1 .average {
+  height: 17px;
+  left: 438px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 54px;
+  white-space: nowrap;
+}
+
+.p7-understanding-others-high-1 .high {
+  height: 17px;
+  left: 897px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 54px;
+  white-space: nowrap;
+}
+
+.p7-understanding-others-high-1 .group-1593 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 0;
+  min-height: 55px;
+  position: absolute;
+  top: 0;
+  width: 925px;
+}
+
+.p7-understanding-others-high-1 .percent {
+  height: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  text-shadow: 2px 2px 0px #000000;
+  width: 133px;
+}
+
+.p7-understanding-others-high-1 .bar {
+  align-items: flex-start;
+  background-color: var(--mystic);
+  border-radius: 10px;
+  display: flex;
+  margin-left: 0.11px;
+  min-width: 923px;
+}
+
+.p7-understanding-others-high-1 .rectangle-651 {
+  background: linear-gradient(180deg, rgb(169.4, 234.81, 87.08) 0%, rgb(127.26, 184.88, 53.92) 100%);
+  border: 0.91px none;
+  border-radius: 10px;
+  height: 6px;
+  width: 735px;
+}
+
+.p7-understanding-others-high-1 .group-1639 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-right: 0.75px;
+  margin-top: 68px;
+  min-height: 251px;
+  width: 1075px;
+}
+
+.p7-understanding-others-high-1 .x-implications {
+  letter-spacing: 0.72px;
+  line-height: 42px;
+  margin-top: -1px;
+  min-height: 46px;
+  white-space: nowrap;
+}
+
+.p7-understanding-others-high-1 .x-with-similar-scores-tend-to {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-bottom: -3px;
+  margin-left: 0.75px;
+  margin-top: 4px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.p7-understanding-others-high-1 .have-strong-self-awa {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: 17px;
+  min-height: 160px;
+  width: 1068px;
+}
+
+.p7-understanding-others-high-1 .rectangle-654 {
+  background: linear-gradient(180deg, rgb(169.4, 234.81, 87.08) 0%, rgb(127.26, 184.88, 53.92) 100%);
+  border: 1px none;
+  border-radius: 3px;
+  height: 3px;
+  margin-right: 2.0px;
+  margin-top: 44px;
+  width: 1068px;
+}
+
+.p7-understanding-others-high-1 .group-1638 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-left: 4.0px;
+  margin-top: 44px;
+  min-height: 224px;
+  width: 1074px;
+}
+
+.p7-understanding-others-high-1 .compared-to-other-le {
+  letter-spacing: 0;
+  line-height: 26px;
+  min-height: 161px;
+  width: 1070px;
+}
+
+.p7-understanding-others-high-1 .rectangle-655 {
+  background: linear-gradient(180deg, rgb(169.4, 234.81, 87.08) 0%, rgb(127.26, 184.88, 53.92) 100%);
+  border: 1px none;
+  border-radius: 3px;
+  height: 3px;
+  margin-top: 44px;
+  width: 1068px;
+}
+
+.p7-understanding-others-high-1 .group-1637 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 44px;
+  min-height: 222px;
+  width: 1076px;
+}
+
+.p7-understanding-others-high-1 .know-how-to-use-thei {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: 17px;
+  min-height: 132px;
+  width: 1070px;
+}
+
+.p7-understanding-others-high-1 .understanding-others-silhouette-1 {
+  align-self: flex-end;
+  height: 182px;
+  margin-right: 8.0px;
+  margin-top: 6px;
+  width: 200px;
+}
+
+.p7-understanding-others-high-1 .footer {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  margin-left: 1.0px;
+  min-width: 1070px;
+}
+
+.p7-understanding-others-high-1 .footer-1 {
+  align-items: center;
+  background-color: var(--mystic);
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  min-width: 1070px;
+  padding: 7.2px 21.0px;
+}
+
+.p7-understanding-others-high-1 .ba-logo_-red {
+  align-self: flex-end;
+  background-image: url(../img/balogo-red-1-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.41px none;
+  height: 41px;
+  width: 143px;
+}
+
+.p7-understanding-others-high-1 .line-1 {
+  height: 34px;
+  margin-left: 25px;
+  margin-top: 2.0px;
+  width: 1px;
+}
+
+.p7-understanding-others-high-1 .bandelli-relational-intelligence-test {
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  margin-left: 22px;
+  margin-top: 4.0px;
+  min-width: 277px;
+  white-space: nowrap;
+}
+
+.p7-understanding-others-high-1 .x {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 517px;
+  margin-top: 7.0px;
+  min-height: 23px;
+  text-align: right;
+  white-space: nowrap;
+  width: 32px;
+}

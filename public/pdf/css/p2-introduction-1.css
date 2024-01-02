@@ -1,0 +1,94 @@
+/* screen - p2-introduction-1 */
+
+.p2-introduction-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1584px;
+  padding: 53px 76.5px;
+  width: 1224px;
+}
+
+.p2-introduction-1 .introduction {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 84px;
+  margin-left: 0.5px;
+  margin-top: 25px;
+  white-space: nowrap;
+}
+
+.p2-introduction-1 .bar-4 {
+  background: linear-gradient(180deg, rgb(231, 125, 125) 0%, rgb(219, 7, 7) 100%);
+  border: 1px none;
+  border-radius: 5px;
+  height: 4px;
+  margin-top: 8px;
+  width: 1069px;
+}
+
+.p2-introduction-1 .relational-intellige {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: 48px;
+  min-height: 708px;
+  width: 1070px;
+}
+
+.p2-introduction-1 .footer {
+  align-items: flex-start;
+  align-self: flex-end;
+  border: 1px none;
+  display: flex;
+  margin-top: 545px;
+  min-width: 1070px;
+}
+
+.p2-introduction-1 .footer-1 {
+  align-items: center;
+  background-color: var(--mystic);
+  border: 1px none;
+  display: flex;
+  height: 56px;
+  min-width: 1070px;
+  padding: 7.2px 21.0px;
+}
+
+.p2-introduction-1 .ba-logo_-red {
+  align-self: flex-end;
+  background-image: url(../img/balogo-red-1-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.41px none;
+  height: 41px;
+  width: 143px;
+}
+
+.p2-introduction-1 .line-1 {
+  height: 34px;
+  margin-left: 25px;
+  margin-top: 2.0px;
+  width: 1px;
+}
+
+.p2-introduction-1 .bandelli-relational-intelligence-test {
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  margin-left: 22px;
+  margin-top: 4.0px;
+  min-width: 271px;
+  white-space: nowrap;
+}
+
+.p2-introduction-1 .x {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 523px;
+  margin-top: 7.0px;
+  min-height: 23px;
+  text-align: right;
+  white-space: nowrap;
+  width: 32px;
+}

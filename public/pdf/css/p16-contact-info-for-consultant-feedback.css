@@ -1,0 +1,129 @@
+/* screen - p16-contact-info-for-consultant-feedback */
+
+.p16-contact-info-for-consultant-feedback {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.5px none;
+  display: flex;
+  flex-direction: column;
+  height: 792px;
+  padding: 26.5px 38.5px;
+  width: 612px;
+}
+
+.p16-contact-info-for-consultant-feedback .contact-information {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-left: 0.04px;
+  margin-top: 12px;
+  white-space: nowrap;
+}
+
+.p16-contact-info-for-consultant-feedback .bar-4 {
+  align-self: center;
+  background: linear-gradient(180deg, rgb(231, 125, 125) 0%, rgb(219, 7, 7) 100%);
+  border: 0.5px none;
+  border-radius: 2.5px;
+  height: 2px;
+  margin-top: 4px;
+  width: 534px;
+}
+
+.p16-contact-info-for-consultant-feedback .thank-you-for-taking {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-left: 0.04px;
+  margin-top: 24px;
+  min-height: 66px;
+  width: 517px;
+}
+
+.p16-contact-info-for-consultant-feedback .flex-row {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 16px;
+  height: 101px;
+  margin-top: 35px;
+  min-width: 535px;
+}
+
+.p16-contact-info-for-consultant-feedback .name {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 101px;
+  width: 260px;
+}
+
+.p16-contact-info-for-consultant-feedback .span0 {
+  color: var(--guardsman-red);
+  font-family: var(--font-family-roboto_condensed-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0.36px;
+  line-height: 21px;
+}
+
+.p16-contact-info-for-consultant-feedback .yichen-tony-cao-he {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 101px;
+  width: 259px;
+}
+
+.p16-contact-info-for-consultant-feedback .footer {
+  align-items: flex-start;
+  align-self: flex-end;
+  border: 0.5px none;
+  display: flex;
+  margin-top: 425px;
+  min-width: 535px;
+}
+
+.p16-contact-info-for-consultant-feedback .footer-1 {
+  align-items: center;
+  background-color: var(--mystic);
+  border: 0.5px none;
+  display: flex;
+  height: 28px;
+  min-width: 535px;
+  padding: 3.6px 10.5px;
+}
+
+.p16-contact-info-for-consultant-feedback .ba-logo_-red {
+  align-self: flex-end;
+  background-image: url(../img/balogo-red-1-39@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.2px none;
+  height: 20px;
+  width: 72px;
+}
+
+.p16-contact-info-for-consultant-feedback .line-1 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 1.0px;
+  width: 1px;
+}
+
+.p16-contact-info-for-consultant-feedback .bandelli-relational-intelligence-test {
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  margin-left: 10px;
+  margin-top: 2.0px;
+  min-height: 10px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.p16-contact-info-for-consultant-feedback .x {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 261px;
+  margin-top: 3.5px;
+  min-height: 12px;
+  text-align: right;
+  white-space: nowrap;
+  width: 16px;
+}

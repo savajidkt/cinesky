@@ -1,0 +1,555 @@
+/* screen - p12-relational-derailer-dimension-scores-moderate-risk */
+
+.p12-relational-derailer-dimension-scores-moderate-risk {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.5px none;
+  display: flex;
+  flex-direction: column;
+  height: 792px;
+  padding: 26.5px 36.0px;
+  width: 612px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .overlap-group {
+  height: 48px;
+  margin-left: 0.67px;
+  margin-top: 12px;
+  position: relative;
+  width: 536px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .bar-4 {
+  background: linear-gradient(180deg, rgb(231, 125, 125) 0%, rgb(219, 7, 7) 100%);
+  border: 0.5px none;
+  border-radius: 2.5px;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 46px;
+  width: 534px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .relational-derailer-dimension-scores {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 42px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 536px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .lacking-self-awareness-moderate-risk {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 24px;
+  min-height: 80px;
+  width: 537px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 140px;
+  height: 26px;
+  min-width: 535px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .lacking-s {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 26px;
+  width: 260px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .span-1 {
+  letter-spacing: 0.24px;
+  line-height: 16px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .span-2 {
+  line-height: 11.5px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .bar {
+  align-items: flex-end;
+  border: 0.5px none;
+  display: flex;
+  gap: 2px;
+  height: 2px;
+  justify-content: flex-end;
+  margin-top: 3.5px;
+  min-width: 135px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .rectangle-652 {
+  background-color: var(--guardsman-red);
+  border: 0.41px none;
+  border-radius: 4.48px;
+  height: 3px;
+  margin-bottom: -0.19px;
+  width: 68px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .rectangle-651 {
+  background-color: var(--guardsman-red);
+  border: 0.41px none;
+  border-radius: 4.48px;
+  height: 3px;
+  margin-bottom: -0.19px;
+  width: 40px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .rectangle-650 {
+  background-color: var(--mystic);
+  border: 0.41px none;
+  border-radius: 4.48px;
+  height: 3px;
+  margin-bottom: -0.19px;
+  width: 25px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .group-16 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 12px;
+  margin-left: 0.17px;
+  min-width: 539px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .x-implication {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -0.5px;
+  min-height: 12px;
+  text-align: right;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .ignore-negative-feed {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 12px;
+  white-space: nowrap;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .group-16-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 12px;
+  margin-left: 0.08px;
+  min-width: 539px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .be-set-in-their-ways {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 8px;
+  white-space: nowrap;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .organizational-culture-implication-1 {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 12px;
+  text-align: right;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .occasionally-underes {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 8px;
+  white-space: nowrap;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .vector-47 {
+  height: 1px;
+  margin-top: 14px;
+  width: 535px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .lacking-social-awareness-moderate-risk {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-right: 0.5px;
+  margin-top: 13px;
+  min-height: 79px;
+  width: 537px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .flex-row-2 {
+  align-items: center;
+  display: flex;
+  gap: 141px;
+  height: 26px;
+  min-width: 535px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .bar-1 {
+  align-items: flex-end;
+  border: 0.5px none;
+  display: flex;
+  gap: 2px;
+  height: 2px;
+  justify-content: flex-end;
+  margin-top: 3.5px;
+  min-width: 135px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .group-1616 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 11px;
+  margin-left: 0.17px;
+  min-width: 539px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .relational-implication {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -0.5px;
+  min-height: 11px;
+  text-align: right;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .sometimes-misread-so {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 6px;
+  white-space: nowrap;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .be-direct-with-feedb {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 8px;
+  white-space: nowrap;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .organizational-culture-implication-2 {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  text-align: right;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .have-difficulty-unde {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 8px;
+  white-space: nowrap;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .vector-48 {
+  height: 1px;
+  margin-right: 1.71px;
+  margin-top: 14px;
+  width: 535px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .self-serving-moderate-risk {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-right: 0.5px;
+  margin-top: 13px;
+  min-height: 92px;
+  width: 537px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .flex-row-3 {
+  align-items: center;
+  display: flex;
+  gap: 141px;
+  height: 27px;
+  min-width: 535px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .self-serving-modera {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 27px;
+  width: 260px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .bar-2 {
+  align-items: flex-end;
+  border: 0.5px none;
+  display: flex;
+  gap: 2px;
+  height: 2px;
+  justify-content: flex-end;
+  margin-top: 4.0px;
+  min-width: 135px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .prioritize-their-own {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  white-space: nowrap;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .leadership-implication {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: -0.5px;
+  min-height: 10px;
+  text-align: right;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .avoid-leading-projec {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  white-space: nowrap;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .group-162 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 24px;
+  margin-left: 0.08px;
+  min-width: 539px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .organizational-culture-implication {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 20px;
+  text-align: right;
+  width: 138px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .create-a-climate-on {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 24px;
+  width: 380px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .vector-49 {
+  height: 1px;
+  margin-right: 0.57px;
+  margin-top: 14px;
+  width: 535px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .breaking-trust-moderate-risk {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-right: 0.5px;
+  margin-top: 13px;
+  min-height: 114px;
+  width: 537px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 140px;
+  height: 27px;
+  min-width: 535px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .breaking-trust-mode {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 27px;
+  width: 260px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .bar-3 {
+  align-items: flex-end;
+  border: 0.5px none;
+  display: flex;
+  gap: 2px;
+  height: 2px;
+  justify-content: flex-end;
+  margin-top: 3.5px;
+  min-width: 135px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .group-1622 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 22px;
+  margin-left: 0.17px;
+  min-width: 539px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .have-trouble-with-co {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 22px;
+  width: 380px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .change-focus-quickly {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 24px;
+  width: 380px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .over-commit-themselv {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 24px;
+  width: 380px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .vector-50 {
+  height: 1px;
+  margin-right: 2.35px;
+  margin-top: 14px;
+  width: 535px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .poor-management-of-e {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: 0.89px;
+  margin-top: 13px;
+  min-height: 114px;
+  width: 537px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .poor-management-of-e-1 {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 27px;
+  width: 260px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .bar-5 {
+  align-items: flex-end;
+  border: 0.5px none;
+  display: flex;
+  gap: 2px;
+  height: 2px;
+  justify-content: flex-end;
+  margin-top: 4.0px;
+  min-width: 135px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .become-tense-or-edgy {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 22px;
+  width: 380px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .sometimes-use-displa {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 24px;
+  width: 380px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .have-trouble-contrib {
+  letter-spacing: 0;
+  line-height: 11.5px;
+  margin-top: -0.5px;
+  min-height: 24px;
+  width: 380px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .footer {
+  align-items: flex-start;
+  border: 0.5px none;
+  display: flex;
+  margin-left: 0.09px;
+  margin-top: 33px;
+  min-width: 535px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .footer-1 {
+  align-items: center;
+  background-color: var(--mystic);
+  border: 0.5px none;
+  display: flex;
+  height: 28px;
+  min-width: 535px;
+  padding: 3.6px 10.5px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .ba-logo_-red {
+  align-self: flex-end;
+  background-image: url(../img/balogo-red-1-39@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.2px none;
+  height: 20px;
+  width: 72px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .line-1 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 1.0px;
+  width: 1px;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .bandelli-relational-intelligence-test {
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  margin-left: 10px;
+  margin-top: 2.0px;
+  min-height: 10px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.p12-relational-derailer-dimension-scores-moderate-risk .x {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 261px;
+  margin-top: 3.5px;
+  min-height: 12px;
+  text-align: right;
+  white-space: nowrap;
+  width: 16px;
+}

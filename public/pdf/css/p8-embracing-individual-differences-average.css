@@ -1,0 +1,311 @@
+/* screen - p8-embracing-individual-differences-average */
+
+.p8-embracing-individual-differences-average {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.5px none;
+  display: flex;
+  flex-direction: column;
+  height: 792px;
+  padding: 26.5px 32.5px;
+  width: 612px;
+}
+
+.p8-embracing-individual-differences-average .individual-container {
+  height: 58px;
+  margin-right: 3.83px;
+  margin-top: 17px;
+  position: relative;
+  width: 531px;
+}
+
+.p8-embracing-individual-differences-average .embracing-individual-differences {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 42px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.p8-embracing-individual-differences-average .individual-scores-implications {
+  left: 0;
+  letter-spacing: 0.24px;
+  line-height: 16px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 531px;
+}
+
+.p8-embracing-individual-differences-average .embracing-individual {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.46px solid;
+  border-color: var(--mystic-2);
+  border-radius: 2.74px;
+  display: flex;
+  gap: 12px;
+  height: 50px;
+  justify-content: flex-end;
+  margin-top: 18px;
+  min-width: 535px;
+  padding: 6.1px 14.2px;
+}
+
+.p8-embracing-individual-differences-average .icon {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(103, 0, 173) 0%, rgb(167, 95, 211) 100%);
+  border-radius: 5.47px;
+  display: flex;
+  height: 30px;
+  min-width: 30px;
+  padding: 0 4.8px;
+}
+
+.p8-embracing-individual-differences-average .puzzle {
+  height: 19px;
+  width: 20px;
+}
+
+.p8-embracing-individual-differences-average .overlap-group {
+  align-self: center;
+  height: 35px;
+  margin-top: 0.2px;
+  position: relative;
+  width: 463px;
+}
+
+.p8-embracing-individual-differences-average .low {
+  height: 9px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 8.5px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average .average {
+  height: 9px;
+  left: 219px;
+  letter-spacing: 0;
+  line-height: 8.5px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average .high {
+  height: 9px;
+  left: 448px;
+  letter-spacing: 0;
+  line-height: 8.5px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average .group-1593 {
+  align-items: flex-start;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 27px;
+  position: absolute;
+  top: 0;
+  width: 463px;
+}
+
+.p8-embracing-individual-differences-average .percent {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-shadow: 1px 1px 0px #000000;
+  width: 66px;
+}
+
+.p8-embracing-individual-differences-average .bar {
+  align-items: flex-start;
+  background-color: var(--mystic);
+  border-radius: 5px;
+  display: flex;
+  margin-left: 0.05px;
+  min-width: 461px;
+}
+
+.p8-embracing-individual-differences-average .rectangle-651 {
+  background: linear-gradient(180deg, rgb(103, 0, 173) 0%, rgb(167, 95, 211) 100%);
+  border: 0.46px none;
+  border-radius: 5px;
+  height: 3px;
+  width: 232px;
+}
+
+.p8-embracing-individual-differences-average .group-1663 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-right: 0.37px;
+  margin-top: 34px;
+  min-height: 124px;
+  width: 541px;
+}
+
+.p8-embracing-individual-differences-average .x-implications {
+  letter-spacing: 0.36px;
+  line-height: 21px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average .x-with-similar-scores-tend-to {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-bottom: -2px;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 12px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average .sometimes-adjust-the {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: 9px;
+  min-height: 79px;
+  width: 534px;
+}
+
+.p8-embracing-individual-differences-average .rectangle-654 {
+  background: linear-gradient(180deg, rgb(103, 0, 173) 0%, rgb(167, 95, 211) 100%);
+  border: 0.5px none;
+  border-radius: 1.5px;
+  height: 2px;
+  margin-right: 1.0px;
+  margin-top: 22px;
+  width: 534px;
+}
+
+.p8-embracing-individual-differences-average .group-1662 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-right: 2.0px;
+  margin-top: 22px;
+  min-height: 100px;
+  width: 539px;
+}
+
+.p8-embracing-individual-differences-average .compared-to-other-le {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 69px;
+  width: 535px;
+}
+
+.p8-embracing-individual-differences-average .rectangle-655 {
+  background: linear-gradient(180deg, rgb(103, 0, 173) 0%, rgb(167, 95, 211) 100%);
+  border: 0.5px none;
+  border-radius: 1.5px;
+  height: 2px;
+  margin-top: 22px;
+  width: 534px;
+}
+
+.p8-embracing-individual-differences-average .group-1661 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 22px;
+  min-height: 112px;
+  width: 541px;
+}
+
+.p8-embracing-individual-differences-average .believe-it-is-import {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: 8px;
+  min-height: 67px;
+  width: 535px;
+}
+
+.p8-embracing-individual-differences-average .overlap-group1 {
+  height: 121px;
+  margin-left: 0.5px;
+  margin-top: 14px;
+  position: relative;
+  width: 535px;
+}
+
+.p8-embracing-individual-differences-average .footer {
+  align-items: flex-start;
+  border: 0.5px none;
+  display: flex;
+  height: 28px;
+  left: 0;
+  min-width: 535px;
+  position: absolute;
+  top: 93px;
+}
+
+.p8-embracing-individual-differences-average .footer-1 {
+  align-items: center;
+  background-color: var(--mystic);
+  border: 0.5px none;
+  display: flex;
+  height: 28px;
+  min-width: 535px;
+  padding: 3.6px 10.5px;
+}
+
+.p8-embracing-individual-differences-average .ba-logo_-red {
+  align-self: flex-end;
+  background-image: url(../img/balogo-red-1-39@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.2px none;
+  height: 20px;
+  width: 72px;
+}
+
+.p8-embracing-individual-differences-average .line-1 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 1.0px;
+  width: 1px;
+}
+
+.p8-embracing-individual-differences-average .bandelli-relational-intelligence-test {
+  letter-spacing: 0.15px;
+  line-height: 10px;
+  margin-left: 10px;
+  margin-top: 2.0px;
+  min-width: 139px;
+  white-space: nowrap;
+}
+
+.p8-embracing-individual-differences-average .x {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 258px;
+  margin-top: 3.5px;
+  min-height: 12px;
+  text-align: right;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.p8-embracing-individual-differences-average .establishing-individ {
+  height: 93px;
+  left: 448px;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}

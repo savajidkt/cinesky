@@ -1,0 +1,139 @@
+/* screen - p3-how-to-use-this-report */
+
+.p3-how-to-use-this-report {
+  align-items: center;
+  background-color: var(--white);
+  border: 0.5px none;
+  display: flex;
+  flex-direction: column;
+  height: 792px;
+  overflow: hidden;
+  padding: 26.5px 0;
+  width: 612px;
+}
+
+.p3-how-to-use-this-report .how-to-use-this-report {
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-right: 35.5px;
+  margin-top: 12px;
+  white-space: nowrap;
+  width: 500px;
+}
+
+.p3-how-to-use-this-report .bar-4 {
+  background: linear-gradient(180deg, rgb(231, 125, 125) 0%, rgb(219, 7, 7) 100%);
+  border: 0.5px none;
+  border-radius: 2.5px;
+  height: 2px;
+  margin-top: 4px;
+  width: 534px;
+}
+
+.p3-how-to-use-this-report .there-are-some-impor {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-top: 24px;
+  min-height: 222px;
+  width: 535px;
+}
+
+.p3-how-to-use-this-report .callout {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  margin-left: 0;
+  margin-top: 34px;
+  min-width: 466px;
+}
+
+.p3-how-to-use-this-report .overlap-group {
+  height: 168px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 464px;
+}
+
+.p3-how-to-use-this-report .rectangle-1105 {
+  background-color: var(--concrete);
+  border: 0.5px none;
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 464px;
+}
+
+.p3-how-to-use-this-report .when-your-relations {
+  height: 168px;
+  left: 38px;
+  letter-spacing: 0.24px;
+  line-height: 16px;
+  position: absolute;
+  top: 0;
+  width: 378px;
+}
+
+.p3-how-to-use-this-report .span1 {
+  color: var(--cape-cod);
+  font-family: var(--font-family-roboto_condensed-bold);
+  font-size: var(--font-size-xxs);
+  font-weight: 700;
+}
+
+.p3-how-to-use-this-report .footer {
+  align-items: flex-start;
+  border: 0.5px none;
+  display: flex;
+  margin-left: 0.5px;
+  margin-top: 202px;
+  min-width: 535px;
+}
+
+.p3-how-to-use-this-report .footer-1 {
+  align-items: center;
+  background-color: var(--mystic);
+  border: 0.5px none;
+  display: flex;
+  height: 28px;
+  min-width: 535px;
+  padding: 3.6px 10.5px;
+}
+
+.p3-how-to-use-this-report .ba-logo_-red {
+  align-self: flex-end;
+  background-image: url(../img/balogo-red-1-39@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.2px none;
+  height: 20px;
+  width: 72px;
+}
+
+.p3-how-to-use-this-report .line-1 {
+  height: 17px;
+  margin-left: 13px;
+  margin-top: 1.0px;
+  width: 1px;
+}
+
+.p3-how-to-use-this-report .bandelli-relational-intelligence-test {
+  letter-spacing: 0.30px;
+  line-height: 20px;
+  margin-left: 10px;
+  margin-top: 2.0px;
+  min-height: 10px;
+  min-width: 136px;
+  white-space: nowrap;
+}
+
+.p3-how-to-use-this-report .x {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 261px;
+  margin-top: 3.5px;
+  min-height: 12px;
+  text-align: right;
+  white-space: nowrap;
+  width: 16px;
+}
